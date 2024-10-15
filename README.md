@@ -1,5 +1,7 @@
 # 🌋 Jurassic Park - Página Web 🦖
 
+![Logo](./images/Banner.jpg)
+
 
 ¡Bienvenido a la página de **Jurassic Park**! Esta página web es una representación visual y funcional inspirada en el mundo de los dinosaurios. Aquí podrás encontrar información sobre varias especies de dinosaurios y sumergirte en una experiencia interactiva donde incluso podrás escuchar los sonidos de estas criaturas prehistóricas.
 
