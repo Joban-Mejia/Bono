@@ -1,8 +1,6 @@
 # 🌋 Jurassic Park - Página Web 🦖
 
 
-![Banner](banner.png)
-
 ¡Bienvenido a la página de **Jurassic Park**! Esta página web es una representación visual y funcional inspirada en el mundo de los dinosaurios. Aquí podrás encontrar información sobre varias especies de dinosaurios y sumergirte en una experiencia interactiva donde incluso podrás escuchar los sonidos de estas criaturas prehistóricas.
 
 ## 🌟 Características
@@ -29,7 +27,7 @@
 Clona este repositorio en tu máquina local:
 bash
 Copiar código
-git clone https://github.com/Joban-Mejia/jurassic-park-web.git
+git clone https://github.com/Joban-Mejia/Bono
 Abre el archivo index.html en tu navegador favorito.
 ¡Explora la página y disfruta de los dinosaurios y sus sonidos!
 📧 Suscripción
